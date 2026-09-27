@@ -67,4 +67,98 @@ Q20. filter() kya karta hai?
 🟠 Level 3 — DOM & Browser
 
 
-next class
+Q21. DOM kya hai?
+
+
+Q22. querySelector() kya karta hai?
+
+
+Q23. querySelectorAll() kya karta hai?
+
+
+Q24. textContent kya karta hai?
+
+
+Q25. Event kya hota hai?
+
+
+Q26. addEventListener() kya karta hai?
+
+
+Q27. preventDefault() kya karta hai?
+
+
+Q28. Event bubbling kya hai?
+
+
+Q29. innerHTML aur textContent mein difference?
+
+
+Q30. localStorage kya hai?
+
+
+
+🔵 Level 4 — ES6+ & Intermediate
+
+Q31. Template literals kya hain?
+
+
+Q32. Destructuring kya hai?
+
+
+Q33. Spread operator ... kya karta hai?
+
+
+Q34. Rest parameter kya hota hai?
+
+
+Q35. Default parameter kya hota hai?
+
+
+Q36. for...of aur for...in mein difference?
+
+
+Q37. Set kya hota hai?
+
+
+Q38. Map kya hota hai?
+
+
+Q39. Promise kya hota hai?
+
+
+Q40. async/await kya hai?
+
+
+
+
+🔴 Level 5 — Advanced JavaScript
+
+Q41. Synchronous aur asynchronous JavaScript mein difference?
+
+
+Q42. Closure kya hota hai?
+
+
+Q43. Execution Context kya hota hai?
+
+
+Q44. Call Stack kya hota hai?
+
+
+Q45. Event Loop kya karta hai?
+
+
+Q46. this keyword kya hota hai?
+
+
+Q47. Prototype kya hota hai?
+
+
+Q48. call(), apply() aur bind() mein kya difference hai?
+
+
+Q49. Shallow copy aur Deep copy kya hain?
+
+
+Q50. JavaScript mein error handling kaise karte hain?
