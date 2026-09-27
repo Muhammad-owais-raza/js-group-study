@@ -1,0 +1,70 @@
+🟢 Level 1 — JavaScript Basics
+
+Q1. JavaScript kya hai?
+
+
+Q2. JavaScript aur Java mein kya difference hai?
+
+
+Q3. var, let aur const mein kya difference hai?
+
+
+Q4. JavaScript ke primitive data types kaun se hain?
+
+
+Q5. == aur === mein kya difference hai?
+
+
+Q6. null aur undefined mein kya difference hai?
+
+
+Q7. Hoisting kya hoti hai?
+
+
+Q8. Scope kya hota hai?
+
+
+Q9. Function kya hota hai?
+
+
+Q10. Parameter aur argument mein kya difference hai?
+
+
+
+🟡 Level 2 — Arrays, Objects & Functions
+
+
+Q11. Array kya hota hai?
+
+
+Q12. push() aur pop() kya karte hain?
+
+
+Q13. shift() aur unshift() kya karte hain?
+
+
+Q14. Object kya hota hai?
+
+
+Q15. Array aur Object mein kya difference hai?
+
+
+Q16. Callback function kya hota hai?
+
+
+Q17. Anonymous function kya hota hai?
+
+
+Q18. Arrow function kya hota hai?
+
+
+Q19. map() aur forEach() mein kya difference hai?
+
+
+Q20. filter() kya karta hai?
+
+
+🟠 Level 3 — DOM & Browser
+
+
+next class
